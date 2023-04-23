@@ -1,0 +1,34 @@
+.carouselItem {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    float: left;
+    margin: 16px;
+    width: 256px;
+    height: 400px;
+}
+
+.empresaImage{
+    height: 300px;
+}
+
+.empresaImage img {
+    min-width: 100%;
+    max-width: 100%;
+    min-height:270px;
+    max-height:270px;
+    width: auto;
+    height: auto;
+}
+
+.empresaInfo {
+    padding: 12px;
+    line-height: 2;
+}
+
+.empresaName {
+    padding: 4px;
+
+}
+
+.empresaEndereco{
+}

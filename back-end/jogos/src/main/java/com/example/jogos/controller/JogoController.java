@@ -19,6 +19,7 @@ import java.util.Optional;
 
 @RestController
 @RequestMapping("/jogos")
+@CrossOrigin("http://localhost:3000")
 public class JogoController {
     @Autowired
     private IJogoRepository jogos;
